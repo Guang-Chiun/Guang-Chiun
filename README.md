@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi I'm Guang-Chiun 👋
 
-<!--
-**Guang-Chiun/Guang-Chiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⛏ Recent Projects
+* 2021/09 - [測試專案名稱1](https://github.com/Guang-Chiun/WindowsFormsApp1)
+* 2021/09 - [測試專案名稱2](https://github.com/Guang-Chiun/WindowsFormsApp1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Guang-Chiun
+- LinkedIn - [Guang-Chiun-Hunag](https://www.linkedin.com/in/guangchiun-huang-937587220/)
+- Mail - [kenny31817@gmail.com](mailto:kenny31817@gmail.com)
+
+
+### Languages and Tools
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
