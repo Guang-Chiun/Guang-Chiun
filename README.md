@@ -4,8 +4,7 @@
 * 2021/09 - [產線AOI機台監控系統](https://github.com/Guang-Chiun/MonitorSystem)
 * 2021/09 - [趨勢科技比賽經驗分享](https://github.com/Guang-Chiun/WindowsFormsApp1)
 * 2021/09 - [自然場景文字生成工具](https://github.com/Guang-Chiun/WindowsFormsApp1)
-* 2021/09 - [前公司控制程式(CPC)開發功能簡介](https://github.com/Guang-Chiun/WindowsFormsApp1)
-* 2021/09 - [前公司控制程式(PPC)開發功能簡介](https://github.com/Guang-Chiun/WindowsFormsApp1)
+* 2021/09 - [EV檢測程式開發功能簡介](https://github.com/Guang-Chiun/WindowsFormsApp1)
 
 
 ### 📫 Connect with Guang-Chiun
