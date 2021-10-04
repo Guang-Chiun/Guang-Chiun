@@ -6,8 +6,9 @@
 
 ### 📖 Recent Blogs
 * 2021/09 - [趨勢科技文字辨識競賽分享](https://github.com/Guang-Chiun/WindowsFormsApp1)
-* 2021/04 - [前公司AOI檢測程式開發功能簡介](https://hackmd.io/@TaNq7dHGRLWgeV6SVPERyQ/SkP6Km_VK)
 * 2021/04 - [前公司AOI控制程式開發功能簡介](https://hackmd.io/@TaNq7dHGRLWgeV6SVPERyQ/BkIB1QuVK)
+* 2021/04 - [前公司AOI檢測程式開發功能簡介](https://hackmd.io/@TaNq7dHGRLWgeV6SVPERyQ/SkP6Km_VK)
+
 
 ### 📫 Connect with Guang-Chiun
 - LinkedIn - [Guang-Chiun-Hunag](https://www.linkedin.com/in/guangchiun-huang-937587220/)
