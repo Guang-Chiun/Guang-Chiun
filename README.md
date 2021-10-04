@@ -1,7 +1,7 @@
 # Hi I'm Guang-Chiun 👋
 
 ### ⛏ Recent Projects
-* 2021/09 - [產線AOI機台監控系統](https://github.com/Guang-Chiun/MonitorSystem)
+* 2021/09 - [AOI機台監控程式](https://github.com/Guang-Chiun/MonitorSystem)
 * 2021/09 - [自然場景文字生成工具](https://github.com/Guang-Chiun/OCR_Image_Generator)
 
 ### 📖 Recent Blogs
