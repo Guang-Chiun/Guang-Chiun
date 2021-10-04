@@ -5,9 +5,9 @@
 * 2021/09 - [自然場景文字生成工具](https://github.com/Guang-Chiun/OCR_Image_Generator)
 
 ### 📖 Recent Blogs
-* 2021/09 - [趨勢科技比賽經驗分享](https://github.com/Guang-Chiun/WindowsFormsApp1)
-* 2021/04 - [前公司檢測程式開發功能簡介](https://github.com/Guang-Chiun/WindowsFormsApp1)
-* 2021/04 - [前公司控制程式開發功能簡介](https://hackmd.io/@TaNq7dHGRLWgeV6SVPERyQ/BkIB1QuVK)
+* 2021/09 - [趨勢科技文字辨識競賽分享](https://github.com/Guang-Chiun/WindowsFormsApp1)
+* 2021/04 - [前公司AOI檢測程式開發功能簡介](https://github.com/Guang-Chiun/WindowsFormsApp1)
+* 2021/04 - [前公司AOI控制程式開發功能簡介](https://hackmd.io/@TaNq7dHGRLWgeV6SVPERyQ/BkIB1QuVK)
 
 ### 📫 Connect with Guang-Chiun
 - LinkedIn - [Guang-Chiun-Hunag](https://www.linkedin.com/in/guangchiun-huang-937587220/)
